@@ -1,0 +1,43 @@
+<?php
+return [
+
+    'parent_List'=>'قائمة اولياء الأمور',
+    'add_parent'=>'اضافة ولي الأمر',
+    'tittle'=>'أولياء الأمور',
+    'add_attach'=>'اضافة مرفق',
+    'name_father_by_arabic'=>'الاسم للأب باللغة العربية',
+    'name_father_by_english'=>'الاسم للأب باللغة الانجليزية',
+    'job_father_arabic'=>' وظيفة الاب بالعربية',
+    'job_father_english'=>' وظيفة الاب بالأنجليزية',
+    'passport_father'=>'رقم الجواز للأب',
+    'phone_father'=>'رقم الهاتف للأب',
+    'password_father'=>'ادخل الباسورد',
+    'father_Email'=>'ادخل الايميل',
+    'personal_id'=>'رقم تحقيق الشخصيه',
+    'father_nationalty'=>'جنسية الأب',
+    'father_bloodtype'=>'فصيله الدم الأب',
+    'father_reglion'=>' الديانة الأب',
+    'father_address'=>'عنوان الأب',
+//mother inputs
+
+    'parent_List'=>'قائمة اولياء الأمور',
+    'add_parent'=>'اضافة ولي الأمر',
+    'tittle'=>'أولياء الأمور',
+    'name_mother_by_arabic'=>'الاسم للأم باللغة العربية',
+    'name_mother_by_english'=>'الاسم باللغة الانجليزية',
+    'job_mother_arabic'=>' وظيفة الأم بالعربية',
+    'job_mother_english'=>' وظيفة الام بالأنجليزية',
+    'passport_mother'=>'رقم الجواز الأم',
+    'phone_mother'=>'رقم الهاتف الأم',
+    'password_mother'=>'ادخل الباسورد',
+    'mother_Email'=>'ادخل الايميل',
+    'personal_id'=>'رقم تحقيق الشخصيه',
+    'mother_nationalty'=>'جنسية الأم',
+    'mother_bloodtype'=>'فصيله الدم الأم',
+    'mother_reglion'=>' الديانة الأم',
+    'mother_address'=>'عنوان الأم',
+    'next'=>'التالي',
+    'tam'=>'السابق',
+    'sure'=>'تأكيد',
+
+];
